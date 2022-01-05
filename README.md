@@ -1,2 +1,4 @@
 # ukpolice
- Simple Pure PHP app for study - Using UK Police API
+ Simple Pure MVC PHP app for study - Using UK Police API
+ 
+ https://data.police.uk/docs/
